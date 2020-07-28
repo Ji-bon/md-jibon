@@ -7,10 +7,10 @@ For run the script type
 1) pkg install git
 
 
-2)git clone https://github.com/bokxud/All_package
+2)git clone https://github.com/Ji-bon/md-jibon
 
 
-1)cd All_package
+1)cd md-jibon
 
 
 2)sh TOOLS.sh
@@ -22,10 +22,10 @@ enjoy 👍
 
 contact and flow me😎😎
 
+fecbook : RJS Jibon
+
+Youtube : https://youtube.com/Laksam/chil
 
 
-Youtube : https://youtube.com/c/BDKR-28
-
-
-Telegram : https://t.me/BDKR28
+Telegram : https://t.me/termux/master
 
